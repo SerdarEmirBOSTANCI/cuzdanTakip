@@ -1,6 +1,6 @@
 # Cüzdan Takip Uygulaması
 
-Bu proje, kişisel gelir ve gider takibini kolayca yapabilmeniz için geliştirilmiş bir **mobil uygulama** örneğidir. **Flutter** kullanılarak geliştirilmiş olup, **MVVM (Model-View-ViewModel)** mimarisi ve **Provider** state management kütüphanesi ile pratik yapılmıştır.
+Bu proje, kişisel gelir ve gider takibini kolayca yapabilmeniz için geliştirilmiş bir **mobil uygulama** örneğidir. **Flutter** kullanılarak geliştirilmiş olup, **MVVM (Model-View-ViewModel)** mimarisi ve **Provider** state management kütüphanesi ile yapılmıştır.
 
 ## Kullanılan Teknolojiler
 
