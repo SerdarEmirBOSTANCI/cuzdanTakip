@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "93534042287",
+    "project_id": "cuzdan-takip-7cccd",
+    "storage_bucket": "cuzdan-takip-7cccd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93534042287:android:3e44e8e233130866377c5a",
+        "android_client_info": {
+          "package_name": "com.example.cuzdan_takip"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0UUbQPRFqevQEru_k1FPgjAWRa9buybI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
